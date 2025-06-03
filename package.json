@@ -2,7 +2,9 @@
   "name": "learning_nodejs",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Noomvv",
   "license": "ISC",
   "description": ""
